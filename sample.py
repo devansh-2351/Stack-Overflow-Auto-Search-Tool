@@ -41,7 +41,7 @@ def get_urls(json_dict):
 
 # Below line will go through the provided python file
 # And stores the output and error.
-out, err = execute_return("python c:\Users\Nishant Singh\Desktop\Stack_Over_Auto_Search\testpg.py")
+out, err = execute_return("python C:\Users\Nishant Singh\Desktop\Stack_Over_Auto_Search\testpg.py")
 
 # This line is used to store that part of error we are interested in.
 erro = err.decode("utf-8").strip().split("\r\n")[-1]
