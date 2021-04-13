@@ -17,5 +17,13 @@ The project consists of -
  What is Stack Overflow?
  - Stack Overflow is a source of helpful information for software development-related queries.
  
+ Important Links for the project(Sources):-
+ 1. https://api.stackexchange.com/docs
+ 2. https://www.geeksforgeeks.org/python-traceback/
+ 3. https://docs.python.org/3/library/subprocess.html
+ 4. https://stackoverflow.com/questions/12605498/how-to-use-subprocess-popen-python
+ 5. https://www.geeksforgeeks.org/get-post-requests-using-python/
+ 6. https://docs.python.org/3.8/library/webbrowser.html
+ 
  
  
