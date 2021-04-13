@@ -17,6 +17,5 @@ The project consists of -
  What is Stack Overflow?
  - Stack Overflow is a source of helpful information for software development-related queries.
  
- Important links for the projects :
- https://www.geeksforgeeks.org/python-traceback/ 
+ 
  
