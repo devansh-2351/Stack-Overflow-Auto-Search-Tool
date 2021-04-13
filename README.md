@@ -1,5 +1,4 @@
 # Stack-Overflow-Auto-Search-Tool
-Topic:Python 
 A Crio.do project (Reference for the code = Geeksforgeeks.org)
 The project consists of -
  1. A python code with incorrect input.
@@ -26,4 +25,25 @@ The project consists of -
  6. https://docs.python.org/3.8/library/webbrowser.html
  
  
+ Glimpses of the project :
  
+ The incorrect source code :
+ 
+ ![image](https://user-images.githubusercontent.com/71055951/114496413-84ce9000-9c3d-11eb-91c8-5dee39eb2379.png)
+ 
+ Wrapper Python Script :
+ 
+ ![image](https://user-images.githubusercontent.com/71055951/114496518-c0695a00-9c3d-11eb-8d4f-49ddf4c016c9.png)
+
+Output of Wrapper Script(or the stackexchange api) :
+
+![image](https://user-images.githubusercontent.com/71055951/114496790-54d3bc80-9c3e-11eb-9d0d-6bfdf9d61a4e.png)
+
+Stackoverflow threads we got :
+
+![image](https://user-images.githubusercontent.com/71055951/114497324-7c775480-9c3f-11eb-87f1-55721c3581bb.png)
+
+
+ 
+ 
+
